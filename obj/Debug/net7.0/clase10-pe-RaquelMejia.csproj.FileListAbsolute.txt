@@ -1,0 +1,14 @@
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.AssemblyInfo.cs
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\bin\Debug\net7.0\clase10-pe-RaquelMejia.exe
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\bin\Debug\net7.0\clase10-pe-RaquelMejia.deps.json
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\bin\Debug\net7.0\clase10-pe-RaquelMejia.runtimeconfig.json
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\bin\Debug\net7.0\clase10-pe-RaquelMejia.dll
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\bin\Debug\net7.0\clase10-pe-RaquelMejia.pdb
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.dll
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\refint\clase10-pe-RaquelMejia.dll
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.pdb
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\clase10-pe-RaquelMejia.genruntimeconfig.cache
+C:\Users\consu\OneDrive\Escritorio\CLASE10.PROGRAMACION\clase10-pe-RaquelMejia\obj\Debug\net7.0\ref\clase10-pe-RaquelMejia.dll
